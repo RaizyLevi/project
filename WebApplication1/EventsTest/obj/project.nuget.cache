@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "//PvN3hDQauI1AGwb3pttr5j7cuJ0EHzhrdEBA8qtdddh5n0yWdXCB/roz/SxApyimuvQsaEatR15ap71TfEng==",
+  "success": false,
+  "projectFilePath": "T:\\הנדסת תוכנה\\שנה ב תשפו\\.net core\\תלמידות\\רייזי לוי\\WebApplication1\\EventsTest\\EventsTest.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project WebApplication1 is not compatible with net5.0 (.NETCoreApp,Version=v5.0). Project WebApplication1 supports: net8.0 (.NETCoreApp,Version=v8.0)",
+      "libraryId": "WebApplication1",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}

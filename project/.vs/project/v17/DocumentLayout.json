@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hitmachut\\source\\repos\\project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7D1A342-3993-454F-8567-0A63C5F2DA30}|project\\project.csproj|c:\\users\\hitmachut\\source\\repos\\project\\project\\controllers\\turnscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7D1A342-3993-454F-8567-0A63C5F2DA30}|project\\project.csproj|solutionrelative:project\\controllers\\turnscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7D1A342-3993-454F-8567-0A63C5F2DA30}|project\\project.csproj|C:\\Users\\hitmachut\\source\\repos\\project\\project\\controllers\\babiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7D1A342-3993-454F-8567-0A63C5F2DA30}|project\\project.csproj|solutionrelative:project\\controllers\\babiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7D1A342-3993-454F-8567-0A63C5F2DA30}|project\\project.csproj|C:\\Users\\hitmachut\\source\\repos\\project\\project\\controllers\\nurescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7D1A342-3993-454F-8567-0A63C5F2DA30}|project\\project.csproj|solutionrelative:project\\controllers\\nurescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7D1A342-3993-454F-8567-0A63C5F2DA30}|project\\project.csproj|C:\\Users\\hitmachut\\source\\repos\\project\\project\\turns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7D1A342-3993-454F-8567-0A63C5F2DA30}|project\\project.csproj|solutionrelative:project\\turns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7D1A342-3993-454F-8567-0A63C5F2DA30}|project\\project.csproj|C:\\Users\\hitmachut\\source\\repos\\project\\project\\babies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7D1A342-3993-454F-8567-0A63C5F2DA30}|project\\project.csproj|solutionrelative:project\\babies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7D1A342-3993-454F-8567-0A63C5F2DA30}|project\\project.csproj|C:\\Users\\hitmachut\\source\\repos\\project\\project\\nurses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7D1A342-3993-454F-8567-0A63C5F2DA30}|project\\project.csproj|solutionrelative:project\\nurses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TurnsController.cs",
+              "DocumentMoniker": "C:\\Users\\hitmachut\\source\\repos\\project\\project\\Controllers\\TurnsController.cs",
+              "RelativeDocumentMoniker": "project\\Controllers\\TurnsController.cs",
+              "ToolTip": "C:\\Users\\hitmachut\\source\\repos\\project\\project\\Controllers\\TurnsController.cs",
+              "RelativeToolTip": "project\\Controllers\\TurnsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T07:30:57.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NuresController.cs",
+              "DocumentMoniker": "C:\\Users\\hitmachut\\source\\repos\\project\\project\\Controllers\\NuresController.cs",
+              "RelativeDocumentMoniker": "project\\Controllers\\NuresController.cs",
+              "ToolTip": "C:\\Users\\hitmachut\\source\\repos\\project\\project\\Controllers\\NuresController.cs",
+              "RelativeToolTip": "project\\Controllers\\NuresController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T07:29:58.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Turns.cs",
+              "DocumentMoniker": "C:\\Users\\hitmachut\\source\\repos\\project\\project\\Turns.cs",
+              "RelativeDocumentMoniker": "project\\Turns.cs",
+              "ToolTip": "C:\\Users\\hitmachut\\source\\repos\\project\\project\\Turns.cs",
+              "RelativeToolTip": "project\\Turns.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T07:22:13.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Nurses.cs",
+              "DocumentMoniker": "C:\\Users\\hitmachut\\source\\repos\\project\\project\\Nurses.cs",
+              "RelativeDocumentMoniker": "project\\Nurses.cs",
+              "ToolTip": "C:\\Users\\hitmachut\\source\\repos\\project\\project\\Nurses.cs",
+              "RelativeToolTip": "project\\Nurses.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T07:20:45.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Babies.cs",
+              "DocumentMoniker": "C:\\Users\\hitmachut\\source\\repos\\project\\project\\Babies.cs",
+              "RelativeDocumentMoniker": "project\\Babies.cs",
+              "ToolTip": "C:\\Users\\hitmachut\\source\\repos\\project\\project\\Babies.cs",
+              "RelativeToolTip": "project\\Babies.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T07:20:25.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BabiesController.cs",
+              "DocumentMoniker": "C:\\Users\\hitmachut\\source\\repos\\project\\project\\Controllers\\BabiesController.cs",
+              "RelativeDocumentMoniker": "project\\Controllers\\BabiesController.cs",
+              "ToolTip": "C:\\Users\\hitmachut\\source\\repos\\project\\project\\Controllers\\BabiesController.cs",
+              "RelativeToolTip": "project\\Controllers\\BabiesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAB+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T07:16:58.612Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
